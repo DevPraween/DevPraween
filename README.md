@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Praween! 👋
 
-<!--
-**DevPraween/DevPraween** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineering Undergraduate** passionate about building full-stack web and mobile applications.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Frontend & Mobile:** React, React Native, Flutter, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3
+- **Backend:** C# (.NET Core Web API), Java, Spring Boot, Dart
+- **Tools & Hardware:** Git, GitHub, VS Code, ESP32 / IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Praween's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPraween&show_icons=true&theme=radical)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=DevPraween&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📫 Connect with Me
+- 💼 LinkedIn: [Your LinkedIn Link]
+- 🌐 Portfolio: [Your Portfolio Link]

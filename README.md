@@ -1,18 +1,21 @@
-# Hi there, I'm Praween! 👋
+# 🎃 Halloween Achievements Hunt 💀
 
-🚀 **Software Engineering Undergraduate** passionate about building full-stack web and mobile applications.
+Welcome to the spooky repository of dark commit messages and phantom pull requests! Use this place to summon GitHub achievements.
 
-### 🛠️ Tech Stack & Tools
-- **Frontend & Mobile:** React, React Native, Flutter, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3
-- **Backend:** C# (.NET Core Web API), Java, Spring Boot, Dart
-- **Tools & Hardware:** Git, GitHub, VS Code, ESP32 / IoT
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A5MDRmdTh0bWh5Zzdna2lycTZ0bWR0MWUxbDJrY3p4MW50dnV3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l41YgS9AepI63Zt9m/giphy.gif" width="150" />
+</p>
 
-### 📈 GitHub Stats
-![Praween's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPraween&show_icons=true&theme=radical)
+## 🎯 Cursed Tasks (Unlock Achievements)
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=DevPraween&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+- [x] **Quickdraw ⚡** - Closed an issue/PR within 5 minutes *before the spirits vanished.*
+- [ ] **YOLO 🧟‍♂️** - Merged a code commit blindly without a glance from any living soul (no code review).
+- [ ] **Pull Shark 🦈** - Dragged 2 spooky PRs straight into the dark abyss (main branch).
+- [ ] **Pair Extraordinaire 🧙‍♂️🔮** - Conjured a commit together with a co-authoring warlock.
+- [ ] **Galaxy Brain 🧠✨** - Resolved discussion mysteries to achieve ultimate cosmic knowledge (2 accepted answers).
 
-### 📫 Connect with Me
-- 💼 LinkedIn: [Your LinkedIn Link]
-- 🌐 Portfolio: [Your Portfolio Link]
+---
+
+## 📜 Haunted Activity Log
+- 🕯️ *Night 1*: Awakened this README from its slumber.
+- 🧪 *Next*: Summoning GitHub forces to test PRs under the moonlight.

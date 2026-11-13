@@ -1,21 +1,50 @@
-# 🎃 Halloween Achievements Hunt 💀
+# Hi there, I'm Praween Prabhashith Liyanage 👋
 
-Welcome to the spooky repository of dark commit messages and phantom pull requests! Use this place to summon GitHub achievements.
+I am a Software Engineering undergraduate at NSBM Green University, passionate about building robust web and mobile applications. I am currently honing my full-stack development skills and building scalable portfolio projects as I prepare for an upcoming Software Engineering internship.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3A5MDRmdTh0bWh5Zzdna2lycTZ0bWR0MWUxbDJrY3p4MW50dnV3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l41YgS9AepI63Zt9m/giphy.gif" width="150" />
+## 🚀 About Me
+* 🎓 **Education:** BSc (Honours) in Software Engineering, NSBM Green University 
+* 💻 **Focus:** Full-stack web architecture and cross-platform mobile development
+* 🌱 **Currently Exploring:** Containerization with Docker and embedded electronics (ESP32)
+* 🎯 **Goals:** Actively seeking opportunities for a Software Engineering internship
+
+## 🛠️ Technical Arsenal
+
+**Frontend & Mobile**
+* React | React Native | Flutter
+* JavaScript | TypeScript | Tailwind CSS
+
+**Backend & Database**
+* C# .NET | Java Spring Boot | PHP 
+* PostgreSQL
+
+**Tools & Environment**
+* Git | GitHub | Docker | Expo CLI | VS Code
+
+## 💻 Featured Projects
+
+* **StayLedger (Hostel Management System)** 
+  Developed the Shared Kitchens module, integrating the backend and frontend UI using React Vite, PHP, and a Neon PostgreSQL database.
+* **TalentFlow (Recruitment Platform)** 
+  Engineered the AI Insights & Analytics module and recruiter ranking dashboard utilizing React, TypeScript, and C# ASP.NET Core.
+* **University ERP Management System** 
+  Built and designed the frontend architecture for the lecture and staff login portals.
+* **Mobile Development Portfolio** 
+  Developed a React Native Profile Details application using Expo Go and a Flutter ToDo application featuring custom state management and search filtering.
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevPraween&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C3D1D9" alt="Praween's GitHub Stats" />
+</div>
+
+## 📫 Let's Connect
+<!-- Add your actual links inside the href attributes below -->
+<p align="left">
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
-
-## 🎯 Cursed Tasks (Unlock Achievements)
-
-- [x] **Quickdraw ⚡** - Closed an issue/PR within 5 minutes *before the spirits vanished.*
-- [ ] **YOLO 🧟‍♂️** - Merged a code commit blindly without a glance from any living soul (no code review).
-- [ ] **Pull Shark 🦈** - Dragged 2 spooky PRs straight into the dark abyss (main branch).
-- [ ] **Pair Extraordinaire 🧙‍♂️🔮** - Conjured a commit together with a co-authoring warlock.
-- [ ] **Galaxy Brain 🧠✨** - Resolved discussion mysteries to achieve ultimate cosmic knowledge (2 accepted answers).
-
----
-
-## 📜 Haunted Activity Log
-- 🕯️ *Night 1*: Awakened this README from its slumber.
-- 🧪 *Next*: Summoning GitHub forces to test PRs under the moonlight.

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=console.log(%22Full+Stack+Developer%22);" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=console.log(%22Full+Stack+Developer%22);" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -23,7 +23,6 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <!-- You can add/remove skills from the '?i=' list below (e.g., flutter, cs, ts, docker) -->
     <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,php,git,github,vscode,idea" alt="My Skills" />
   </a>
 </div>

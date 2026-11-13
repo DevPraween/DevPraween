@@ -1,20 +1,35 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF7F&center=true&vCenter=true&width=850&lines=%20Console.WriteLine(%22Hi,+I'm+Praween+Prabhashith!%22);System.out.println(%22Full-Stack+Software+Engineer%22);print(%22Open+to+New+Opportunities!%22);" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <p><b>Crafting clean architecture, scalable backends, and premium cross-platform experiences.</b></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=console.log(%22Full+Stack+Developer%22);" alt="Typing SVG" />
 </div>
 
 <br/>
 
-### 👨‍💻 The Developer Profile
+<div align="center">
+  <h3>About Me</h3>
+  <p>I'm a Software Engineering Undergraduate at NSBM Green University LK</p>
 
-```json
-<p align="left">
+  <p>
+    <code>State:</code> Currently working on <b>StayLedger Hostel Management System</b><br>
+    <code>Learning:</code> Docker & Containerization<br>
+    <code>Goals:</code> Software Engineering Internship in 2027
+  </p>
+</div>
+
+<br/>
+
+---
+
+### 🛠️ Languages & Tools
+
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,py,js,php,react,dart,kotlin,flutter,figma,git,github,vscode,idea" alt="My Skills" />
+    <!-- You can add/remove skills from the '?i=' list below (e.g., flutter, cs, ts, docker) -->
+    <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,php,git,github,vscode,idea" alt="My Skills" />
   </a>
-</p>
+</div>
+
+<br/>
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=DevPraween&label=Profile+Views&color=444444&style=flat-square" alt="Profile Views" />
+</div>

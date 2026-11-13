@@ -8,11 +8,22 @@
   <h3>About Me</h3>
   <p>I'm a Software Engineering Undergraduate at NSBM Green University LK</p>
 
-  <p>
-    <code>State:</code> Currently working on <b>StayLedger Hostel Management System</b><br>
-    <code>Learning:</code> Docker & Containerization<br>
-    <code>Goals:</code> Software Engineering Internship in 2027
-  </p>
+  <table align="center">
+    <tbody>
+      <tr>
+        <td align="right"><code>State:</code></td>
+        <td align="left">Currently working on <b>StayLedger Hostel Management System</b></td>
+      </tr>
+      <tr>
+        <td align="right"><code>Learning:</code></td>
+        <td align="left">Docker & Containerization</td>
+      </tr>
+      <tr>
+        <td align="right"><code>Goals:</code></td>
+        <td align="left">Software Engineering Internship in 2027</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <br/>

@@ -19,3 +19,18 @@
   "university": "NSBM Green University, Sri Lanka 🇱🇰",
   "specializations": ["Full-Stack Architecture", "Cross-Platform Mobile"]
 }
+### 💻 Tech Stack & Tools
+
+**Languages:** Java, C#, Python, JavaScript, PHP, Dart, Kotlin
+**Frameworks & Libraries:** React, Flutter
+**Tools & Environments:** Git, GitHub, VS Code, IntelliJ IDEA, Figma
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,py,js,php,react,dart,kotlin,flutter,figma,git,github,vscode,idea" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+### 📫 Let's Connect

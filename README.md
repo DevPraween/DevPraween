@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF7F&center=true&vCenter=true&width=850&lines=%20Console.WriteLine(%22Hi,+I'm+Praween+Prabhashith!%22);System.out.println(%22Full-Stack+Software+Engineer%22);print(%22Seeking+2027+Internship!%22);" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF7F&center=true&vCenter=true&width=850&lines=%20Console.WriteLine(%22Hi,+I'm+Praween+Prabhashith!%22);System.out.println(%22Full-Stack+Software+Engineer%22);print(%22Available+for+2027+Internships!%22);" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,9 +25,7 @@
 ```json
 {
   "name": "Praween Prabhashith Liyanage",
-  "status": "Software Engineering Undergraduate",
+  "degree": "BSc (Hons) in Software Engineering",
   "university": "NSBM Green University, Sri Lanka 🇱🇰",
-  "specialization": ["Full-Stack Web", "Cross-Platform Mobile"],
-  "current_focus": "Actively seeking a Software Engineering Internship",
-  "hobbies": ["Call of Duty", "Red Dead Redemption 2", "ESP32 Hardware"]
+  "specializations": ["Full-Stack Architecture", "Cross-Platform Mobile"]
 }
